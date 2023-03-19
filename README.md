@@ -5,9 +5,9 @@ Ce programme récupère des informations sur une entreprise en utilisant l'API P
 1- Installer Python 3.x et pip sur votre ordinateur si ce n'est pas déjà fait.
 2- Télécharger ou cloner le dépôt GitHub contenant le code source.
 3- Dans un terminal, naviguer jusqu'au dossier contenant le code source.
-4- Installer les dépendances du programme en exécutant la commande suivante : pip install -r requirements.txt
+4- Installer les dépendances du programme en exécutant la commande suivante : ```pip install -r requirements.txt```
 5- Renommer le fichier .env.sample en .env et ajouter votre clé API dans la variable API_KEY.
-6- Exécuter le programme en tapant python entreprise_info.py dans le terminal.
+6- Exécuter le programme en tapant ```python3 entreprise_info.py``` dans le terminal.
 
 # Utilisation
 1- Le programme demande d'entrer le numéro SIREN de l'entreprise à rechercher.
